@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TableroDamas_evalart/1.0.0": {
+        "runtime": {
+          "TableroDamas_evalart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TableroDamas_evalart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
